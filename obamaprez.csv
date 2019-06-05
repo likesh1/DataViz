@@ -1,0 +1,52 @@
+"","state.x","candidatevotes","year","state_po","state_fips","state_cen","state_ic","office","candidate","party","writein","totalvotes","version","notes"
+"1","Alabama",1255925,2012,"AL",1,63,41,"US President","Romney, Mitt","republican",FALSE,2074338,20171015,NA
+"2","Alaska",164676,2012,"AK",2,94,81,"US President","Romney, Mitt","republican",FALSE,300495,20171015,NA
+"3","Arizona",1233654,2012,"AZ",4,86,61,"US President","Romney, Mitt","republican",FALSE,2299254,20171015,NA
+"4","Arkansas",647744,2012,"AR",5,71,42,"US President","Romney, Mitt","republican",FALSE,1069468,20171015,NA
+"5","California",7854285,2012,"CA",6,93,71,"US President","Obama, Barack H.","democrat",FALSE,13038547,20171015,NA
+"6","Colorado",1323101,2012,"CO",8,84,62,"US President","Obama, Barack H.","democrat",FALSE,2569516,20171015,NA
+"7","Connecticut",905083,2012,"CT",9,16,1,"US President","Obama, Barack H.","democrat",FALSE,1558204,20171015,NA
+"8","Delaware",242584,2012,"DE",10,51,11,"US President","Obama, Barack H.","democrat",FALSE,413890,20171015,NA
+"9","District of Columbia",267070,2012,"DC",11,53,55,"US President","Obama, Barack H.","democrat",FALSE,293764,20171015,NA
+"10","Florida",4237756,2012,"FL",12,59,43,"US President","Obama, Barack H.","democrat",FALSE,8474179,20171015,NA
+"11","Georgia",2078688,2012,"GA",13,58,44,"US President","Romney, Mitt","republican",FALSE,3897839,20171015,NA
+"12","Hawaii",306658,2012,"HI",15,95,82,"US President","Obama, Barack H.","democrat",FALSE,437159,20171015,NA
+"13","Idaho",420911,2012,"ID",16,82,63,"US President","Romney, Mitt","republican",FALSE,652274,20171015,NA
+"14","Illinois",3019512,2012,"IL",17,33,21,"US President","Obama, Barack H.","democrat",FALSE,5242014,20171015,NA
+"15","Indiana",1420543,2012,"IN",18,32,22,"US President","Romney, Mitt","republican",FALSE,2624534,20171015,NA
+"16","Iowa",822544,2012,"IA",19,42,31,"US President","Obama, Barack H.","democrat",FALSE,1582180,20171015,NA
+"17","Kansas",692634,2012,"KS",20,47,32,"US President","Romney, Mitt","republican",FALSE,1159971,20171015,NA
+"18","Kentucky",1087190,2012,"KY",21,61,51,"US President","Romney, Mitt","republican",FALSE,1797212,20171015,NA
+"19","Louisiana",1152262,2012,"LA",22,72,45,"US President","Romney, Mitt","republican",FALSE,1994065,20171015,NA
+"20","Maine",401306,2012,"ME",23,11,2,"US President","Obama, Barack H.","democrat",FALSE,724758,20171015,NA
+"21","Maryland",1677844,2012,"MD",24,52,52,"US President","Obama, Barack H.","democrat",FALSE,2707327,20171015,NA
+"22","Massachusetts",1921290,2012,"MA",25,14,3,"US President","Obama, Barack H.","democrat",FALSE,3184196,20171015,NA
+"23","Michigan",2564569,2012,"MI",26,34,23,"US President","Obama, Barack H.","democrat",FALSE,4730961,20171015,NA
+"24","Minnesota",1546167,2012,"MN",27,41,33,"US President","Obama, Barack H.","democratic-farmer-labor",FALSE,2936561,20171015,NA
+"25","Mississippi",710746,2012,"MS",28,64,46,"US President","Romney, Mitt","republican",FALSE,1285584,20171015,NA
+"26","Missouri",1482440,2012,"MO",29,43,34,"US President","Romney, Mitt","republican",FALSE,2757323,20171015,NA
+"27","Montana",267928,2012,"MT",30,81,64,"US President","Romney, Mitt","republican",FALSE,484048,20171015,NA
+"28","Nebraska",475064,2012,"NE",31,46,35,"US President","Romney, Mitt","democrat",FALSE,794379,20171015,NA
+"29","Nevada",531373,2012,"NV",32,88,65,"US President","Obama, Barack H.","democrat",FALSE,1014918,20171015,NA
+"30","New Hampshire",369561,2012,"NH",33,12,4,"US President","Obama, Barack H.","democrat",FALSE,710972,20171015,NA
+"31","New Jersey",2122786,2012,"NJ",34,22,12,"US President","Obama, Barack H.","democrat",FALSE,3638499,20171015,NA
+"32","New Mexico",415335,2012,"NM",35,85,66,"US President","Obama, Barack H.","democrat",FALSE,783758,20171015,NA
+"33","New York",4324228,2012,"NY",36,21,13,"US President","Obama, Barack H.","democrat",FALSE,7116784,20171015,NA
+"34","North Carolina",2270395,2012,"NC",37,56,47,"US President","Romney, Mitt","republican",FALSE,4505372,20171015,NA
+"35","North Dakota",188320,2012,"ND",38,44,36,"US President","Romney, Mitt","republican",FALSE,321932,20171015,NA
+"36","Ohio",2827621,2012,"OH",39,31,24,"US President","Obama, Barack H.","democrat",FALSE,5580822,20171015,NA
+"37","Oklahoma",891325,2012,"OK",40,73,53,"US President","Romney, Mitt","republican",FALSE,1334872,20171015,NA
+"38","Oregon",970488,2012,"OR",41,92,72,"US President","Obama, Barack H.","democrat",FALSE,1789270,20171015,NA
+"39","Pennsylvania",2990274,2012,"PA",42,23,14,"US President","Obama, Barack H.","democrat",FALSE,5742040,20171015,NA
+"40","Rhode Island",279677,2012,"RI",44,15,5,"US President","Obama, Barack H.","democrat",FALSE,446049,20171015,NA
+"41","South Carolina",1071645,2012,"SC",45,57,48,"US President","Romney, Mitt","republican",FALSE,1964118,20171015,NA
+"42","South Dakota",210610,2012,"SD",46,45,37,"US President","Romney, Mitt","republican",FALSE,363815,20171015,NA
+"43","Tennessee",1462330,2012,"TN",47,62,54,"US President","Romney, Mitt","republican",FALSE,2458577,20171015,NA
+"44","Texas",4569843,2012,"TX",48,74,49,"US President","Romney, Mitt","republican",FALSE,7993851,20171015,NA
+"45","Utah",740600,2012,"UT",49,87,67,"US President","Romney, Mitt","republican",FALSE,1017440,20171015,NA
+"46","Vermont",199239,2012,"VT",50,13,6,"US President","Obama, Barack H.","democrat",FALSE,299290,20171015,NA
+"47","Virginia",1971820,2012,"VA",51,54,40,"US President","Obama, Barack H.","democrat",FALSE,3854489,20171015,NA
+"48","Washington",1755396,2012,"WA",53,91,73,"US President","Obama, Barack H.","democrat",FALSE,3125516,20171015,NA
+"49","West Virginia",417655,2012,"WV",54,55,56,"US President","Romney, Mitt","republican",FALSE,670438,20171015,NA
+"50","Wisconsin",1620985,2012,"WI",55,35,25,"US President","Obama, Barack H.","democrat",FALSE,3071434,20171015,NA
+"51","Wyoming",170962,2012,"WY",56,83,68,"US President","Romney, Mitt","republican",FALSE,250701,20171015,NA
